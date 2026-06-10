@@ -1,0 +1,17 @@
+{
+  "name": "@herman/i18n",
+  "version": "1.0.0",
+  "description": "Agnostic i18n module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.15",
+    "typescript": "^5.9.3"
+  }
+}
